@@ -28,7 +28,7 @@ The platform includes a complete subscription, IAP, and token-based economy, and
 
 ### UI Design System
 
-- [Ixia UI (Figma)](https://drive.google.com/file/d/1HAQMAkV4S1NLsvoqyrVtizgDehoEySRs/view?usp=drive_link)
+- [Ixia UI (Figma)](https://drive.google.com/file/d/1avOu2n-vS1RlcWlVw-6mD0B3pknKRY7V/view?usp=drive_link)
 
 ---
 
