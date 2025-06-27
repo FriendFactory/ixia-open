@@ -30,6 +30,10 @@ The platform includes a complete subscription, IAP, and token-based economy, and
 
 - [Ixia UI (Figma)](https://drive.google.com/file/d/1avOu2n-vS1RlcWlVw-6mD0B3pknKRY7V/view?usp=drive_link)
 
+### Screen Recordings
+
+- [Features overview](https://drive.google.com/drive/u/0/folders/1_fbg8BD_DKcmgaGNxUXxIvp6fBAVel6m)
+  
 ---
 
 ## License
